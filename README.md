@@ -31,3 +31,6 @@ The dataset captures a year of furniture sales, highlighting key business metric
 ## Project Objective 
 To showcase the ability to perform end-to-end data analysis using Excel from data preparation to building an interactive dashboard.
 
+[furniture-sales-dashboard.PNG](furniture-sales-dashboard.PNG)
+
+
